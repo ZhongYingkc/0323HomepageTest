@@ -1,27 +1,27 @@
 ---
 # Display name
-title: 吳健雄
+title: 钟颖
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhong Ying/Chung Wing
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ying
+last_name: Zhong
 
 # Status emoji
-status:
+status: 🍺
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Beijing Film Acadamy
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
