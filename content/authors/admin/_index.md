@@ -10,8 +10,8 @@ first_name: Ying
 last_name: Zhong
 
 # Status emoji
-status: 
-  icon: ☕️
+status: It's 5 o'clock somewhere
+  icon: 🍺
 
 # Is this the primary user of the site?
 superuser: true
