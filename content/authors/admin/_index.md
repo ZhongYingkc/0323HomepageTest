@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 钟颖
+title: Zhong Ying
 
 # Name pronunciation (optional)
-name_pronunciation: Zhong Ying/Chung Wing
+name_pronunciation: Chung Wing (in Cantonese)
 
 # Full name (for SEO)
 first_name: Ying
