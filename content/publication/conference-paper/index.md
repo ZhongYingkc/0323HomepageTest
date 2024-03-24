@@ -33,7 +33,7 @@ abstract: Cinematic Virtual Reality (CVR) is an increasingly popular digital art
 # Summary. An optional shortened abstract.
 summary: In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors.
 
-tags: [Virtual Reality] [User Experience]
+tags: [Virtual Reality][User Experience]
 
 # Display this page in the Featured widget?
 featured: false
@@ -74,7 +74,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
