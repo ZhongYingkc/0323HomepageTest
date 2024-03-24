@@ -52,17 +52,17 @@ skills:
         description: ''
         percent: 75
         icon: matlab
-        icon_pack: devicon
+        icon_pack: fab
       - name: Unreal Engine
         description: ''
         percent: 90
         icon: unrealengine
-        icon_pack: devicon
+        icon_pack: fab
       - name: Unity
         description: ''
         percent: 70
         icon: unity
-        icon_pack: devicon
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 60
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ying Zhong is a postgraduate student of digital film technology at the Virtual Reality Lab of the Department of Film and Television Technology in Beijing Film Academy. Her research interets include user experience, human-computer interaction and human-centric designe in immersive environment.
 {style="text-align: justify;"}
