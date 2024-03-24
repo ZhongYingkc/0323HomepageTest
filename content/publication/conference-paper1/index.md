@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2022 IEEE International Conference on Multimedia and Expo (ICME)*
-publication_short: In *ICW*
+publication_short: 
 
 abstract: Cinematic Virtual Reality (CVR) is an increasingly popular digital art production technology that could enhance the sense of presence when a viewer explores immersive environments. There are three important viewing-experience-related aspects, attention, sustainability, and guidance, which can be affected by the cinematography principles. Attention indicates whether the viewer is focusing on the storytelling-related region or not. Sustainability refers to viewers' ability to continuously watch the CVR content, and guidance affects the understanding of the narrative. In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors. According to experimental results, we suggest an attention-comfort-understanding analysis paradigm for directing the CVR shot, which could help creators effectively attract viewers' attention, minimize the cybersickness, and deepen their understanding of narratives.
 
@@ -74,6 +74,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
